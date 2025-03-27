@@ -1,4 +1,4 @@
-![Alt text](3._Host_a_Dynamic_Web_App_on_AWS (1).png)
+![Alt text](3._Host_a_Dynamic_Web_App_on_AWS.png)
 ---
 **Dynamic Website Deployment on AWS**  
 

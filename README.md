@@ -1,4 +1,4 @@
-![Alt text](2._Host_a_WordPress_Website_on_AWS.png)
+![Alt text](3._Host_a_Dynamic_Web_App_on_AWS (1).png)
 ---
 **Dynamic Website Deployment on AWS**  
 

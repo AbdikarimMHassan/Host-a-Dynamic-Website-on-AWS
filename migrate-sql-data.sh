@@ -1,6 +1,6 @@
 #!/bin/bash
 
-S3_URI=s3://aosnote-sql-files/V1__shopwise.sql
+S3_URI=s3://abdikarim-sql-files/V1__shopwise.sql
 RDS_ENDPOINT=dev-rds-db.cu2idoemakwo.us-east-1.rds.amazonaws.com
 RDS_DB_NAME=applicationdb
 RDS_DB_USERNAME=*****
@@ -28,3 +28,4 @@ flyway -url=jdbc:mysql://"$RDS_ENDPOINT":3306/"$RDS_DB_NAME" \
   -locations=filesystem:sql \
 
   migrate
+
